@@ -1,6 +1,11 @@
-# generated output
-site/
 
+# generated output
 # python
-__pycache__/
 *.pyc
+.env
+.env.*
+.venv/
+__pycache__/
+dist/*.tmp
+node_modules/
+site/
